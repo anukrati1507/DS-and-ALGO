@@ -1,2 +1,2 @@
 # DS-and-ALGO
-A place where you can find all the basic codes required for placement preparation.
+A source-code repository where you can find all the basic codes required for placement preparation.
